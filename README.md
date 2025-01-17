@@ -27,7 +27,7 @@ Enjoy and implement the addons in your projects!
 
 💬 Feedback and Support
 If you encounter any issues, have suggestions, or want to share your thoughts on the addons, feel free to reach out:
-Contact: [Your Email/Support Contact]
+Contact: [Profile Presentation of Norda Scripts: steamid64=76561198033784269](https://osgmod.com/profiles/76561198033784269)
 Website: osgmod.com
 Your feedback helps improve and inspire future creations!
 
