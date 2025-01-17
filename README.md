@@ -10,7 +10,7 @@ Redirect users to the official platform where these addons are available today.
 📌 Where to Find the Addons
 You can find all my released addons on the following website:
 
-[👉 Browse My best Gmod Addons Here](https://osgmod.com/gmod-scripts/page-1): https://osgmod.com/gmod-scripts/page-1
+[👉 Browse My best modern Gmod Addons Here](https://osgmod.com/gmod-scripts/page-1)
 This site hosts the most up-to-date versions of my addons, ensuring easy access and compatibility with your needs.
 
 📅 Addons by Year
